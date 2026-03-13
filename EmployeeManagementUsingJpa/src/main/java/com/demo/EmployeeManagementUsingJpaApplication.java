@@ -9,6 +9,7 @@ public class EmployeeManagementUsingJpaApplication {
 	public static void main(String[] args) {
 		
 		System.out.println("first line in sts after git");
+		System.out.println("sec line after adding into git");
 		SpringApplication.run(EmployeeManagementUsingJpaApplication.class, args);
 	}
 
